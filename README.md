@@ -2,11 +2,11 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#1.-load-credit-card-database">Load Credit Card Database (SQL)</a></li>
-    <li><a href="#2.-application-front-end">Application Front-End</a></li>
-    <li><a href="#3.-data-analysis-and-visualization">Data Analysis and Visualization</a></li>
-    <li><a href="#4.-loan-application-dataset">LOAN Application Dataset</a></li>
-    <li><a href="#5.-data-analysis-and-visualization-for-loan-application">Data Analysis and Visualization for Loan Application</a></li>
+    <li><a href="#1-load-credit-card-database">Load Credit Card Database (SQL)</a></li>
+    <li><a href="#2-application-front-end">Application Front-End</a></li>
+    <li><a href="#3-data-analysis-and-visualization">Data Analysis and Visualization</a></li>
+    <li><a href="#4-loan-application-dataset">LOAN Application Dataset</a></li>
+    <li><a href="#5-data-analysis-and-visualization-for-loan-application">Data Analysis and Visualization for Loan Application</a></li>
   </ol>
 </details>
 
